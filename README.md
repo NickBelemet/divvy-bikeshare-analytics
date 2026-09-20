@@ -37,7 +37,7 @@ The analysis was designed around several questions:
 
 ## Dashboard 1 — Divvy Network Overview
 
-![Divvy Network Overview](images/divvy_network_overview.png)
+![Divvy Network Overview](images/Dnetwork.png)
 
 The primary dashboard provides an interactive overview of network activity
 between 2016 and 2019, combining temporal, demographic and spatial analysis.
@@ -85,7 +85,7 @@ simple way of identifying potential network pressure and redistribution needs.
 
 ## Dashboard 2 — Network Access & Community Context
 
-![Network Access and Community Context](images/network_access_context.png)
+![Network Access & Community Context](images/Dnetwrk.png)
 
 The second dashboard extends the trip analysis beyond individual journeys to
 consider the geographical distribution of Divvy infrastructure across Chicago.
